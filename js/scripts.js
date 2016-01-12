@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $(".thumbnail").click(function() {
-    $this.term.toggle();
-    $this.definition.toggle();
+    $(this).find(".term").toggle();
+    $(this).find(".definition").toggle();
   });
 
 
