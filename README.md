@@ -6,12 +6,17 @@
 
 ## Description
 
-The idea of this page is to test your knowledge about Javascript. Click on a term to see its definition. Click the definition to reveal term, again.
+The idea of this page is to test your knowledge about Javascript. Click on a term to see its definition. Click the definition to reveal term, again. Currently only has two sample flashcards.
 
 ## Setup/Installation Requirements
 
 * clone repository
 * open in browser
+
+--or--
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/epicodus-js-flashcards/)
+
 
 ## Known Bugs
 
